@@ -9,7 +9,7 @@
 | 1      | Web Scraping | [Here](Track-WebScraping/Scraping.md) | Introduction au technique de base du scraping (XPath, regex, json) en python | ✅ |
 | 2      | Crawling | [Here](Track-WebScraping/Crawling.md) | Introduction au technique de récupération à grande échelle des données | ✅ |
 | 3      | Web Scraping Dynamic | [Here](Track-WebScraping/Scraping-Dynamic.md) | Introduction au scraping des sites utilisant principalement du JS, ainsi que les différentes intéraction possible (cliquer sur un bouton, changer de page, etc) | ✅ |
-| 4      | Create our own dataset | [Here]() | Atelier libre sur la création de votre dataset, dans le but de pouvoir l'étudier avec des technique vu dans la track IA | ❌ |
+| 4      | Create our own dataset | [Here](Track-WebScraping/CreateADataset.md) | Atelier libre sur la création de votre dataset, dans le but de pouvoir l'étudier avec des technique vu dans la track IA | ✅ |
 
 ### Talk
 
