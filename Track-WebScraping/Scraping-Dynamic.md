@@ -59,6 +59,8 @@ As we are going to load javascript, we need a web driver.<br>
 2- Get the following page
 > https://web.simple-mmo.com
 
+> Help to handle webdriver: https://pypi.org/project/webdriver-manager/
+
 <br>
 
 ## **Exercise 2 - Cookies**
