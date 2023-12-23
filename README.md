@@ -31,7 +31,7 @@
 | 3      | Decision Tree | [Here](Track-IA/03-DecisionTree.ipynb) | Implémentation et usage des decisions trees aux travers du problème du Titanic | ✅ |
 | 4      | Genetic Algorithm, an universal algorithm | [Here](Track-IA/04-GeneticAlgorithm.ipynb) | Implémentation d'un génétic algorithm dans le but de trouvé la solution au travelsman problem | ✅ |
 | 5      | Genetic Programming | [Here](Track-IA/05-GeneticProgramming.ipynb) | Implémentation d'un génétic algorithm dans le but de résoudre des problèmes complexes via openai gym | ✅ |
-| 6      | Deep learning for image processing | [Here]() | Découverte des techniques de gestion de grosse data aux travers du MNIST dataset | ❌ |
+| 6      | Deep learning for image processing | [Here](Track-IA/06-DeepLearningImageProcessing.ipynb) | Découverte des techniques de gestion de grosse data aux travers du MNIST dataset | ✅ |
 | 7      | Natural Language Processing | [Here]() | Découverte des techniques utiles à la création d'un chatbot | ❌ |
 | 8      | Generative Adversarial Network | [Here]() | Découverte des GANs afin de les utilisé pour la génération d'image | ❌ |
 
