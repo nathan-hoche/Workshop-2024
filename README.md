@@ -15,10 +15,10 @@
 
 | Workshop | Date | Heure |
 | -------- | ---- | ----- |
-| Web Scraping | 14/09/2021 | 14h-16h |
-| Crawling | 15/09/2021 | 10h-12h |
-| Web Scraping Dynamic | 21/09/2021 | 14h-16h |
-| Create our own dataset | 22/09/2021 | 14h-16h |
+| Web Scraping | 14/09/2023 | 14h-16h |
+| Crawling | 15/09/2023 | 10h-12h |
+| Web Scraping Dynamic | 21/09/2023 | 14h-16h |
+| Create our own dataset | 22/09/2023 | 14h-16h |
 
 ## Traks 2: IA
 
@@ -39,11 +39,11 @@
 
 | Workshop | Date | Heure |
 | -------- | ---- | ----- |
-| Introduction to Python libraries for Data Science |  |  |
-| Clustering Classification |  |  |
-| Decision Tree |  |  |
-| Genetic Algorithm, an universal algorithm |  |  |
-| Genetic Programming |  |  |
-| Deep learning for image processing |  |  |
-| Natural Language Processing |  |  |
-| Generative Adversarial Network |  |  |
+| Introduction to Python libraries for Data Science | 02/01/2024 | 14h-16h |
+| Clustering Classification | 03/01/2024 | 16h-18h |
+| Decision Tree | 09/01/2024 |  |
+| Genetic Algorithm, an universal algorithm | 10/01/2024 |  |
+| Genetic Programming | 16/01/2024 |  |
+| Deep learning for image processing | 17/01/2024 |  |
+| Natural Language Processing | 23/01/2024 |  |
+| Generative Adversarial Network | 24/01/2024 |  |
