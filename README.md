@@ -1,4 +1,4 @@
-# SUBJECTS TO WRITE
+# WORKSHOP SUBJECT 2023-2024
 
 ## Traks 1: Web Scraping
 
