@@ -28,7 +28,7 @@
 | ------ | ----- | ------- | ----------- | ------ | -------- |
 | 1      | Introduction to Python libraries for Data Science | [Here](Track-IA/01-Prequel.ipynb) | Initiation à Numpy, Pandas et Matplotlib | ✅ | [Here](Track-IA/Soluce-01-Prequel.ipynb) |
 | 2      | Clustering Classification | [Here](Track-IA/02-Clustering.ipynb) | Présentation des techniques de classification par clustering, ainsi que l'usage de techniques de traitement de donnée | ✅ | [Here](Track-IA/Soluce-02-Clustering.ipynb) |
-| 3      | Decision Tree | [Here](Track-IA/03-DecisionTree.ipynb) | Implémentation et usage des decisions trees aux travers du problème du Titanic | ✅ | [Wait the end of the workshop]() |
+| 3      | Decision Tree | [Here](Track-IA/03-DecisionTree.ipynb) | Implémentation et usage des decisions trees aux travers du problème du Titanic | ✅ | [Here](Track-IA/03-DecisionTree.ipynb) |
 | 4      | Genetic Algorithm, an universal algorithm | [Here](Track-IA/04-GeneticAlgorithm.ipynb) | Implémentation d'un génétic algorithm dans le but de trouvé la solution au travelsman problem | ✅ | [Wait the end of the workshop]() |
 | 5      | Genetic Programming | [Here](Track-IA/05-GeneticProgramming.ipynb) | Implémentation d'un génétic algorithm dans le but de résoudre des problèmes complexes via openai gym | ✅ | [Wait the end of the workshop]() |
 | 6      | Deep learning for image processing | [Here](Track-IA/06-DeepLearningImageProcessing.ipynb) | Découverte des techniques de gestion de grosse data aux travers du MNIST dataset | ✅ | [Wait the end of the workshop]() |
