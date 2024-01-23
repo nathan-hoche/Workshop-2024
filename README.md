@@ -49,3 +49,26 @@ This repository contains all the workshop subjects, I organized in 2023-2024 for
 | Deep learning for image processing | / | / |
 | Natural Language Processing | / | / |
 | Generative Adversarial Network | / | / |
+
+# TALK 2023-2024
+
+| Number | Title | Subject | Description | Status |
+| ------ | ----- | ------- | ----------- | ------ |
+| 1      | Introduction at the Artificial Intelligence and at these profession | [Here](Talk/IntroductionIA.pdf) | Présentation de l'intelligence Artificielle, des métiers liés, ainsi que la présentation des opportunités professionnelles | ✅ |
+| 2      | The subject of study for AI professions | [Here]() | | ❌ |
+| 3      | Data problems and their solutions | [Here]() | | ❌ |
+| 4      | Presentation of Data Scientist techniques | [Here]() | | ❌ |
+| 5      | Presentation of Machine Learning techniques | [Here]() | | ❌ |
+| 6      | Introduction to Neural Network | [Here]() | | ❌ |
+
+
+### Date des présentations
+
+| Workshop | Date | Heure |
+| -------- | ---- | ----- |
+| Introduction at the Artificial Intelligence and at these profession | 31/01/2024 | 10h-11h |
+| The subject of study for AI professions | 31/01/2024 | 11h-12h |
+| Data problems and their solutions | 01/02/2024 | 10h-11h |
+| Presentation of Data Scientist techniques | 01/02/2024 | 11h-12h |
+| Presentation of Machine Learning techniques | 01/02/2024 | 14h-15h |
+| Introduction to Neural Network | 01/02/2024 | 15h-16h |
