@@ -52,14 +52,14 @@ This repository contains all the workshop subjects, I organized in 2023-2024 for
 
 # TALK 2023-2024
 
-| Number | Title | Subject | Description | Status |
-| ------ | ----- | ------- | ----------- | ------ |
-| 1      | Introduction at the Artificial Intelligence and at these profession | [Here](Talk/IntroductionIA.pdf) | Présentation de l'intelligence Artificielle, des métiers liés, ainsi que la présentation des opportunités professionnelles | ✅ |
-| 2      | The subject of study for AI professions | [Here]() | | ❌ |
-| 3      | Data problems and their solutions | [Here]() | | ❌ |
-| 4      | Presentation of Data Scientist techniques | [Here]() | | ❌ |
-| 5      | Presentation of Machine Learning techniques | [Here]() | | ❌ |
-| 6      | Introduction to Neural Network | [Here]() | | ❌ |
+| Number | Title | Description | Status |
+| ------ | ----- | ----------- | ------ |
+| 1      | Introduction at the Artificial Intelligence and at these profession | Présentation de l'intelligence Artificielle, des métiers liés, ainsi que la présentation des opportunités professionnelles | ✅ |
+| 2      | The subject of study for AI professions | Présentation des différents types d'apprentissage et des set de données pour leur entraînement | ✅ |
+| 3      | Data problems and their solutions | | ❌ |
+| 4      | Presentation of Data Scientist techniques | | ❌ |
+| 5      | Presentation of Machine Learning techniques | | ❌ |
+| 6      | Introduction to Neural Network | | | ❌ |
 
 
 ### Date des présentations
