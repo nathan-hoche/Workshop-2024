@@ -56,7 +56,7 @@ This repository contains all the workshop subjects, I organized in 2023-2024 for
 | ------ | ----- | ----------- | ------ |
 | 1      | Introduction at the Artificial Intelligence and at these profession | Présentation de l'intelligence Artificielle, des métiers liés, ainsi que la présentation des opportunités professionnelles | ✅ |
 | 2      | The subject of study for AI professions | Présentation des différents types d'apprentissage et des set de données pour leur entraînement | ✅ |
-| 3      | Data problems and their solutions | | ❌ |
+| 3      | Data problems and their solutions | Présentation des différentes partie du Data Mining et de la problèmatique des données | ✅ |
 | 4      | Presentation of Data Scientist techniques | | ❌ |
 | 5      | Presentation of Machine Learning techniques | | ❌ |
 | 6      | Introduction to Neural Network | | | ❌ |
