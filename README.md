@@ -52,15 +52,14 @@ This repository contains all the workshop subjects, I organized in 2023-2024 for
 
 # TALK 2023-2024
 
-| Number | Title | Description | Status |
-| ------ | ----- | ----------- | ------ |
-| 1      | Introduction at the Artificial Intelligence and at these profession | Présentation de l'intelligence Artificielle, des métiers liés, ainsi que la présentation des opportunités professionnelles | ✅ |
-| 2      | The subject of study for AI professions | Présentation des différents types d'apprentissage et des set de données pour leur entraînement | ✅ |
-| 3      | Data problems and their solutions | Présentation des différentes partie du Data Mining et de la problèmatique des données | ✅ |
-| 4      | Presentation of Data Scientist techniques | | ❌ |
-| 5      | Presentation of Machine Learning techniques | | ❌ |
+| Number | Title | Description | Link | Status |
+| ------ | ----- | ----------- | ---- | ------ |
+| 1      | Introduction at the Artificial Intelligence and at these profession | Présentation de l'intelligence Artificielle, des métiers liés, ainsi que la présentation des opportunités professionnelles | [Here](Talk/IntroductionIA.pdf) | ✅ |
+| 2      | The subject of study for AI professions | Présentation des différents types d'apprentissage et des set de données pour leur entraînement | [Here](Talk/SujetEtudeIA.pdf) | ✅ |
+| 3      | Data problems and their solutions | Présentation des différentes partie du Data Mining et de la problèmatique des données | [Here](Talk/KDDprocess.pdf) | ✅ |
+| 4      | Presentation of Data Scientist techniques | Présentation des différentes étapes de développement d'un projet en datascience, ainsi que les techniques de base à savoir. | [Here](Talk/DataScientist-Technique.pdf) | ✅ |
+| 5      | Presentation of Machine Learning techniques | Présentation des différentes étapes de développement d'un projet en machine Learning, ainsi que les techniques de base à savoir. | [Here](Talk/MachineLearning-Technique.pdf) | ✅ |
 | 6      | Introduction to Neural Network | | | ❌ |
-
 
 ### Date des présentations
 
